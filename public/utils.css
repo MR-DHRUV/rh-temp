@@ -1,0 +1,17 @@
+.testimonial-slider {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.testimonial-slider button {
+    cursor: pointer;
+    background: transparent;
+    border: 0;
+    position: absolute;
+    margin-top: 600px;
+    margin-left: 25%;
+}
+button.testimonial-previous {
+  margin-left: 20%;
+}
